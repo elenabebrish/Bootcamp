@@ -3,7 +3,6 @@ package TasksDay3;
 public class MultiplicationTable {
     public static void main(String[] args) {
 
-    int x,y,z;
     int[][] table = new int[10][10];
 
         int row=1,column=1;

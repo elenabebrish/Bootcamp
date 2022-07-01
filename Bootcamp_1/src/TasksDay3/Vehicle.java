@@ -7,7 +7,7 @@ public class Vehicle {
 
         }
 
-        void changingGears () {
+        static void changingGears() {
             System.out.println("Changing gears");
         }
 
@@ -30,7 +30,7 @@ public class Vehicle {
                 System.out.println("Drive 2");
             }
 
-            void changingGears() {
+            static void changingGears() {
                 System.out.println("Changing gears 2");
             }
         }
